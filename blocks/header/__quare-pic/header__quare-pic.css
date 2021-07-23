@@ -1,0 +1,16 @@
+.header__quare-pic {
+  margin: 0 auto;
+  height: 568px;
+  width: 568px;
+  background-color: #2f80ed;
+  position: absolute;
+  top: 64px;
+  bottom: 0;
+  right: 0;
+  z-index: auto;
+  animation-name: rotation;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  overflow: hidden;
+}
