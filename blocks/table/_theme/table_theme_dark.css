@@ -4,10 +4,8 @@
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
-  margin: 0px;
-  margin-right: auto;
-  margin-bottom: 90px;
-  margin-left: auto;
+  margin: 0 auto 90px auto;
+  padding: 0;
   width: 1100px;
   z-index: 1;
 }

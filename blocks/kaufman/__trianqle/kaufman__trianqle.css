@@ -6,9 +6,4 @@
   right: -210px;
   background-image: url('../../../images/kaufman-triangle.svg');
   background-size: cover;
-  animation-name: rotation;
-  animation-duration: 20s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  overflow: hidden;
 }
